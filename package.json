@@ -1,0 +1,31 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "my first bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnurbHartmann/nodebot.git"
+  },
+  "keywords": [
+    "nodebot",
+    "bot"
+  ],
+  "author": "Bruno Hartmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OnurbHartmann/nodebot/issues"
+  },
+  "homepage": "https://github.com/OnurbHartmann/nodebot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "botbuilder": "^3.10.2",
+    "express": "^4.16.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  }
+}
